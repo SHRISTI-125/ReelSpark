@@ -123,7 +123,6 @@ python app.py
 <p>
 <b>Shristi Kumari</b><br />
 B.Tech CSE Student | Full Stack & AI Enthusiast<br />
-Focused on building real-world projects.
 </p>
 
 <hr />
