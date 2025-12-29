@@ -17,7 +17,7 @@ and enabling <b>social media growth</b> through smart AI-driven suggestions.
   <li>🔥 Reel Idea Generator for multiple niches</li>
   <li>✍️ AI-generated captions with CTA suggestions</li>
   <li>🧠 Category-based content ideas (Tech, AI, Education, Lifestyle, etc.)</li>
-  <li>🔐 Authentication system</li>
+  <!--<li>🔐 Authentication system</li>-->
   <li>📱 Responsive and modern UI</li>
 </ul>
 
@@ -33,8 +33,8 @@ and enabling <b>social media growth</b> through smart AI-driven suggestions.
 
 <h3>Backend</h3>
 <ul>
-  <li>Node.js</li>
-  <li>Express.js (Authentication & API handling)</li>
+  <!--<li>Node.js</li>
+  <li>Express.js (Authentication & API handling)</li>-->
   <li>Flask (AI content generation service)</li>
 </ul>
 
@@ -46,54 +46,22 @@ and enabling <b>social media growth</b> through smart AI-driven suggestions.
 
 <hr />
 
-<h2>📂 Project Structure</h2>
-
-<pre>
-ReelSpark/
-│── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── data/
-│   │   └── App.js
-│
-│── backend/
-│   ├── node-server/
-│   │   ├── routes/
-│   │   ├── controllers/
-│   │   └── auth/
-│   │
-│   └── flask-ai/
-│       ├── app.py
-│       └── ai_logic/
-│
-│── README.md
-</pre>
-
-<hr />
 
 <h2>⚙️ Installation & Setup</h2>
 
 <h3>Frontend</h3>
 
 ```
-cd frontend
+cd "https://github.com/SHRISTI-125/ReelSpark/"
 npm install
 npm start
 ```
 
-<h3>Backend (Node + Express)</h3>
-
-```
-cd backend/node-server
-npm install
-npm run dev
-```
 
 <h3>Backend (Flask – AI Service)</h3>
 
 ```
-cd backend/flask-ai
+cd "https://github.com/SHRISTI-125/ReelSpark"
 pip install -r requirements.txt
 python app.py
 ```
@@ -122,7 +90,7 @@ Home Page
 <p float="left"> <img src="https://raw.githubusercontent.com/SHRISTI-125/ReelSpark/main/images/img1.png" width="400"/> <img src="https://raw.githubusercontent.com/SHRISTI-125/ReelSpark/main/images/img2.png" width="400"/> </p>
 Content Ideas
 <p float="left"> <img src="https://raw.githubusercontent.com/SHRISTI-125/ReelSpark/main/images/img3.png" width="800"/> </p>
-
+<p float="left"> <img src="https://raw.githubusercontent.com/SHRISTI-125/ReelSpark/main/images/img4.png" width="800"/> </p>
 
 <hr />
 
