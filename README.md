@@ -90,6 +90,7 @@ Home Page
 <p float="left"> <img src="https://raw.githubusercontent.com/SHRISTI-125/ReelSpark/main/images/img1.png" width="400"/> <img src="https://raw.githubusercontent.com/SHRISTI-125/ReelSpark/main/images/img2.png" width="400"/> </p>
 Content Ideas
 <p float="left"> <img src="https://raw.githubusercontent.com/SHRISTI-125/ReelSpark/main/images/img3.png" width="800"/> </p>
+Content Ideas
 <p float="left"> <img src="https://raw.githubusercontent.com/SHRISTI-125/ReelSpark/main/images/img4.png" width="800"/> </p>
 
 <hr />
